@@ -1,0 +1,3 @@
+#!/bin/bash
+source /Users/mac/Desktop/customClaudeCode/env/bin/activate
+python3 /Users/mac/Desktop/customClaudeCode/customClaudeCode/main.py "$@"
