@@ -124,9 +124,7 @@ customclaude
 - OpenAI API (GPT-4.1 with function calling)
 - ~300 lines of code total
 
-## License
 
-MIT — do whatever you want with it.
 
 ## Author
 
